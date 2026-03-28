@@ -10,10 +10,15 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 
 ## Algorithm
 
-1. SGD Regressor – Used gradient descent for linear prediction.
-2. Feature Scaling – Standardized features and target using StandardScaler.
-3. One-Hot Encoding – Converted categorical variables with get_dummies().
-4. Model Evaluation & Plot – Assessed with MSE, R², MAE and visualized predictions.
+1.Initialize Model – Set initial values for weights and bias.
+
+2.Pick One Sample – Select one data point randomly from the dataset.
+
+3.Calculate Error – Find the difference between actual and predicted value.
+
+4.Update Weights – Adjust weights using learning rate and gradient.
+
+5.Repeat Process – Continue for many iterations until the model improves.
 
 ## Program:
 ```
