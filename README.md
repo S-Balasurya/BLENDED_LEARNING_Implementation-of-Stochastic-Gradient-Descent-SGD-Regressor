@@ -97,28 +97,14 @@ plt.show()
 
 ## Output:
 
-Name: Balasurya S
+<img width="844" height="742" alt="Screenshot 2026-03-28 140403" src="https://github.com/user-attachments/assets/42a59432-700d-4042-a3f5-84e98153cd8e" />
 
-Reg. No: 25000944
+<img width="218" height="80" alt="Screenshot 2026-03-28 140409" src="https://github.com/user-attachments/assets/2886c938-db34-478a-bb04-a7c6da735a0b" />
 
-Mean Squared Error: 0.21276308592928508
+<img width="415" height="135" alt="Screenshot 2026-03-28 140414" src="https://github.com/user-attachments/assets/248c2ef8-23fe-490f-b571-62451a9c89b5" />
 
-R-squared Score: 0.8288321752196486
+<img width="867" height="283" alt="Screenshot 2026-03-28 140417" src="https://github.com/user-attachments/assets/6428d18f-1d38-411e-b9f8-76f033276330" />
 
-Mean Absolute Error: 0.31990409306576184
-
-Model Coefficients:
-
-Coefficients: [ 0.03644113  0.10467079  0.00530043  0.18101578  0.01731382  0.17996764
-  0.29746911 -0.01919133 -0.08772226 -0.00114337  0.10775046  0.03823239
- -0.0408296  -0.05116344 -0.01946325  0.02245876  0.0179501  -0.01866822
- -0.08844477 -0.01524452 -0.09405658 -0.02981943  0.06565885  0.21234125
-  0.0128534  -0.10127127  0.07171542 -0.01823596 -0.00200752  0.01139981
- -0.03721764 -0.14683789 -0.07471277  0.00082891 -0.02786123  0.01139981
- -0.00380599 -0.01722504  0.01946325 -0.01940024 -0.03397326 -0.04286795
- -0.01691473]
-
-Intercept: [-0.0118457]
 
                                   ACTUAL VS PREDICTED PRICES USING SGD REGRESSOR
 <img width="565" height="453" alt="image" src="https://github.com/user-attachments/assets/f666e4fb-634b-4e2f-b2dd-0a2de06c8e1c" />
